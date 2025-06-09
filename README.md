@@ -37,7 +37,7 @@ Ready to go? Grab some water and a nice snack, and let's dig in!
       2. [Generate via `jafgen` and seed the data with dbt Core](#-generate-via-jafgen-and-seed-the-data-with-dbt-core)
    3. [Pre-commit and SQLFluff](#-pre-commit-and-sqlfluff)
 
-## 💾 Prerequisites
+## 💾 Prerequisites!
 
 - A dbt Cloud account
 - A data warehouse (BigQuery, Snowflake, Redshift, Databricks, or Postgres) with adequate permissions to create a fresh database for this project and run dbt in it
