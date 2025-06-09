@@ -18,7 +18,7 @@ Ready to go? Grab some water and a nice snack, and let's dig in!
  </a>
 </div>
 
-## Table of contents
+## Table of contents! oxi
 
 1. [Prerequisites](#-prerequisites)
 2. [Create new repo from template](#-create-new-repo-from-template)
