@@ -1,4 +1,4 @@
-config-version: 2
+version: 2
 
 name: "jaffle_shop"
 version: "3.0.0"
